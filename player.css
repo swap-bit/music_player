@@ -1,0 +1,16 @@
+.container {
+    position: absolute;
+    top: 69px;
+    left: 30px;
+}
+.musicPlayer {
+    position: relative;
+    top: 5px;
+    left: 354px;
+}
+#songName {
+    position: relative;
+    top: -67px;
+    left: 163px;
+}
+
